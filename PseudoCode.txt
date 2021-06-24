@@ -1,7 +1,8 @@
  User clicks the button to generate a password
  Prompt box appears asking user how many characters they would like their password to be (min:9, max:128)
  Ensure that password length is between 9 and 128 characters by using an if statement. IF the number is between those min/max values then it will be accepted and stored . ELSE, prompt user to select number within the set parameter. 
- Prompt box appears asking user if they would like to use lowercase letters in their password. Use boolean statement to identify yes/no (true/fasle). Store info in a variable.
- Prompt box appears asking user if they would like to use uppercase letters in their password. Use boolean statement to identify yes/no (true/fasle). Store info in a variable.
- Prompt box appears asking user if they would like to use special characters in their password. Use boolean statement to identify yes/no (true/false). Store info in a variable.
+ Prompt box appears asking user if they would like to use lowercase letters in their password. Use boolean statement to identify yes/no (true/fasle). Add to possible characters variable.
+ Prompt box appears asking user if they would like to use uppercase letters in their password. Use boolean statement to identify yes/no (true/fasle). Add to possible characters variable.
+ Prompt box appears asking user if they would like to use special characters in their password. Use boolean statement to identify yes/no (true/false). Add to possible characters variable.
+ Prompt box appears asking user if they would like to use numbers in their password. Use boolean statement to identify yes/no (true/false). Add to possible characters variable.
  If user selects yes for at least one prompt/criteria box, then a password will be generated with their selected preferences.
