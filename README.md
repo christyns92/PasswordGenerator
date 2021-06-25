@@ -53,6 +53,9 @@ Step 7
 
 ![Screenshot (116)](https://user-images.githubusercontent.com/81654878/123354167-b19a0000-d528-11eb-8674-45a043c05204.png)
 
+Access Password Generator Here:
+https://christyns92.github.io/PasswordGenerator/
+
 
 
 
